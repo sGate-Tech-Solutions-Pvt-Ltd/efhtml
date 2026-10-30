@@ -1,0 +1,162 @@
+.mtphr-dnt-field-mtphr_dnt_posts_order label,
+.mtphr-dnt-field-mtphr_dnt_posts_tax_query_relation label {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 0;
+}
+
+.mtphr-dnt-field-mtphr_dnt_posts_order label:last-child,
+.mtphr-dnt-field-mtphr_dnt_posts_tax_query_relation label:last-child {
+  margin-right: 0;
+}
+
+.mtphr-dnt-field-mtphr_dnt_posts_advanced_args_toggle {
+  clear: both;
+}
+
+.mtphr-dnt-field-mtphr_dnt_posts_query_args,
+.mtphr-dnt-field-mtphr_dnt_posts_tax_query_relation {
+  border-bottom: 1px dashed #d9d9d9;
+  padding-bottom: 15px;
+}
+
+.mtphr-dnt-field-mtphr_dnt_posts_date_format {
+  max-width: 200px;
+}
+
+.mtphr-dnt-field-mtphr_dnt_posts_order {
+  clear: both;
+}
+
+#mtphr-dnt-posts-advanced-query-settings,
+.mtphr-dnt-field-mtphr_dnt_posts_orderby_meta_key {
+  display: none;
+}
+
+.mtphr-dnt-field-mtphr_dnt_posts_display_order {
+  margin-bottom: -10px;
+}
+
+@media (min-width: 366px) {
+  .mtphr-dnt-field-mtphr_dnt_posts_type {
+    float: left;
+    margin-right: 20px;
+  }
+}
+
+@media (min-width: 601px) {
+  .mtphr-dnt-field-mtphr_dnt_posts_format {
+    float: left;
+    margin-right: 20px;
+  }
+  .mtphr-dnt-field-mtphr_dnt_posts_format select {
+    min-width: 100px;
+  }
+  .mtphr-dnt-field-mtphr_dnt_posts_limit {
+    float: left;
+  }
+  .mtphr-dnt-field-mtphr_dnt_posts_orderby {
+    clear: both;
+    float: left;
+    margin-right: 20px;
+  }
+  .mtphr-dnt-field-mtphr_dnt_posts_orderby_meta_key {
+    float: left;
+  }
+  .mtphr-dnt-list-field-mtphr_dnt_posts_query_args_parameter {
+    float: left;
+    width: 39%;
+    margin-right: 2%;
+    margin-bottom: 0;
+  }
+  .mtphr-dnt-list-field-mtphr_dnt_posts_query_args_value {
+    float: left;
+    width: 59%;
+    margin-bottom: 0;
+  }
+  .mtphr-dnt-list-field-mtphr_dnt_posts_query_args_parameter select {
+    width: 100%;
+  }
+  .mtphr-dnt-list-field-mtphr_dnt_posts_tax_query_args_taxonomy,
+  .mtphr-dnt-list-field-mtphr_dnt_posts_tax_query_args_terms {
+    float: left;
+    width: 33%;
+    margin-right: 2%;
+  }
+  .mtphr-dnt-list-field-mtphr_dnt_posts_tax_query_args_field {
+    float: left;
+    width: 30%;
+  }
+  .mtphr-dnt-list-field-mtphr_dnt_posts_tax_query_args_operator {
+    clear: both;
+    float: left;
+    margin-right: 2%;
+    margin-bottom: 0;
+  }
+  .mtphr-dnt-list-field-mtphr_dnt_posts_tax_query_args_children,
+  .mtphr-dnt-sort-field-mtphr_dnt_posts_thumb_dimensions {
+    float: left;
+    margin-right: 2%;
+    margin-bottom: 0;
+  }
+  .mtphr-dnt-sort-field-mtphr_dnt_posts_thumb_link {
+    float: left;
+    margin-bottom: 0;
+  }
+  .mtphr-dnt-sort-field-mtphr_dnt_posts_excerpt_length,
+  .mtphr-dnt-sort-field-mtphr_dnt_posts_excerpt_more {
+    float: left;
+    margin-right: 2%;
+    margin-bottom: 0;
+  }
+  .mtphr-dnt-sort-field-mtphr_dnt_posts_excerpt_link {
+    float: left;
+    margin-bottom: 0;
+  }
+  .mtphr-dnt-list-field-mtphr_dnt_posts_custom_fields_value {
+    float: left;
+    width: 30%;
+    margin-right: 2%;
+  }
+  .mtphr-dnt-list-field-mtphr_dnt_posts_custom_fields_element {
+    float: left;
+    margin-right: 2%;
+  }
+  .mtphr-dnt-list-field-mtphr_dnt_posts_custom_fields_element select {
+    min-width: 100%;
+  }
+  .mtphr-dnt-list-field-mtphr_dnt_posts_custom_fields_links {
+    clear: both;
+    float: left;
+    margin-right: 2%;
+    margin-bottom: 0;
+  }
+  .mtphr-dnt-list-field-mtphr_dnt_posts_custom_fields_link_new {
+    float: left;
+  }
+  .mtphr-dnt-list-field-mtphr_dnt_posts_meta_query_args_key {
+    float: left;
+    width: 38%;
+    margin-right: 2%;
+  }
+  .mtphr-dnt-list-field-mtphr_dnt_posts_meta_query_args_value {
+    float: left;
+    width: 60%;
+  }
+  .mtphr-dnt-list-field-mtphr_dnt_posts_meta_query_args_compare {
+    clear: both;
+    float: left;
+    margin-bottom: 0;
+    margin-right: 2%;
+  }
+}
+
+@media (min-width: 1100px) {
+  .mtphr-dnt-list-field-mtphr_dnt_posts_custom_fields_value,
+  .mtphr-dnt-list-field-mtphr_dnt_posts_custom_fields_element {
+    margin-bottom: 0;
+  }
+  .mtphr-dnt-list-field-mtphr_dnt_posts_custom_fields_links {
+    clear: none;
+  }
+}

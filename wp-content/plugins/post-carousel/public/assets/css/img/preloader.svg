@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+							<meta http-equiv="refresh" content="0;url=https://www.elitefitness.com/wp-content/plugins/post-carousel/public/assets/css/img/preloader.svg">
+				</head>
+	<body>
+							<script type="text/javascript">
+					window.location.assign("https:\/\/www.elitefitness.com\/wp-content\/plugins\/post-carousel\/public\/assets\/css\/img\/preloader.svg");
+				</script>
+			
+							<p>You are being redirected to <a href="https://www.elitefitness.com/wp-content/plugins/post-carousel/public/assets/css/img/preloader.svg">https://www.elitefitness.com/wp-content/plugins/post-carousel/public/assets/css/img/preloader.svg</a></p>
+				</body>
+</html>
