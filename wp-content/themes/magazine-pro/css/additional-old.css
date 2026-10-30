@@ -1,0 +1,721 @@
+body > div {
+    font-size: 1.8rem;
+}
+
+.top-container {
+    width: 1250px;
+}
+
+/*.main-top-row-two .d-blue-left-section .d-blue-left-section-inner .boxnews {
+    background: #727ec6;
+    padding: 0.15em 0.3em;
+    display: inline-block;
+}*/
+
+/*.main-top-row-two .l-blue-right-section {
+    text-align: left;
+    color: #fff;
+    padding-top: 10px;
+}*/
+
+/*.main-top-row-two .l-blue-right-section .l-blue-cus-menu {
+    background: url('https://www.elitefitness.com/wp-content/themes/magazine-pro/images/bubble.png') 0 5px no-repeat transparent;
+    padding-left: 42px;
+}
+
+.main-top-row-two .l-blue-right-section .l-blue-cus-menu > div {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 3px;
+}
+.main-top-row-two .l-blue-right-section .l-blue-cus-menu .text-large {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.main-top-row-two .l-blue-right-section .l-blue-cus-menu .text-small {
+    padding-top: 4px;
+    font-size: 13px;
+    line-height: 1em;
+}
+*/
+/*#menu-main.genesis-nav-menu {
+    display: inline-block;
+    width: 90%;
+    margin: 21px auto;
+    text-transform: none;
+    font-size: 1em;
+}
+
+#menu-main.genesis-nav-menu a {
+    padding: 0 4px!important;
+}
+
+/*#menu-main.genesis-nav-menu .menu-item {
+    background-image: none;
+}*/
+
+/*#menu-main li {
+    padding-left: 4px;
+}
+
+#menu-main li:after {
+    content: "/";
+    font-size: 16px;
+    color: #6972ac;
+    margin-left: 4px;
+}
+
+#menu-main li:last-of-type:after {
+    display: none;
+}*/
+/*
+.background-couple {
+    background: url('https://www.elitefitness.com/wp-content/themes/magazine-pro/images/header_pattern01.jpg') repeat-x;
+}
+
+.site-container {
+
+}
+
+.site-header {
+    background: none;
+}
+.site-header .inner {
+    background: url('https://www.elitefitness.com/wp-content/themes/magazine-pro/images/header_bg01.jpg') no-repeat 0 0;
+    background-size: cover;
+    z-index: 3;
+    width: 1380px;
+    margin: 0 auto;
+}
+*/
+.site-header .search-form {
+    /*box-shadow: 2px 25px 40px 30px rgba(0,0,0,0.2);
+    margin-top: 12px;*/
+    /*width: 717px;*/
+}
+
+header .widget_search .widget-wrap:after {
+    display: none;
+}
+
+header .tagline {
+    width: 100%;
+    margin-top: 75px;
+    margin-left: 15px;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: left;
+    font-family: 'Droid Sans', sans-serif;
+    word-spacing: -0.75px;
+    letter-spacing: -0.75px;
+}
+
+.background-couple .couplewrap {
+    /*background-image: url('https://www.elitefitness.com/wp-content/themes/magazine-pro/images/couple.png');*/
+    right: -33%;
+}
+
+.mtphr-dnt-tick {
+    font-size: 14px;
+}
+
+.site-header .wrap {
+    width: 1148px;
+}
+
+.magazine-home .site-inner {
+    max-width: 100%;
+    padding-top: 0;
+    padding-bottom: 0;
+    background: url('https://www.elitefitness.com/wp-content/themes/magazine-pro/images/content_bg01.jpg') center top no-repeat #b9b9b9;
+    background-size: contain;
+}
+
+.site-inner .content-sidebar-wrap {
+    width: 1250px;
+    margin: 0 auto;
+}
+
+
+#top-section {
+    background:#fff;
+    width: 98.12%;
+    height: 328px;
+    padding: 1px 36px 16px;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 58px;
+}
+
+#top-section:after {
+    display: block;
+    content: '';
+    background: url('https://www.elitefitness.com/wp-content/themes/magazine-pro/images/shadow.png') no-repeat 0 0 transparent;
+    background-size: contain;
+    width: 1250px;
+    height: 160px;
+    position: relative;
+    left: -36px;
+}
+
+#top-section h1 {
+    color: #3d4fb7;
+    font-weight: 300;
+    font-size: 35px;
+    margin: 28px 0;
+}
+
+#top-section .headline {
+    display: inline-block;
+    width: 73%;
+}
+
+#top-section .norton {
+    display: inline-block;
+    vertical-align: text-bottom;
+    width: 25%;
+}
+
+#top-section .norton img {
+    float: right;
+}
+
+#top-section .half {
+    width: 48.5%;
+    display: inline-block;
+    vertical-align: top;
+    position: relative;
+}
+
+#top-section .count {
+    color: #3d4fb7;
+}
+
+#get-started-box {
+    position: absolute;
+    background: url('https://www.elitefitness.com/wp-content/themes/magazine-pro/images/slider_banner_bg.png') no-repeat  0 0 transparent;
+    background-size: cover;
+    height: 192px;
+    width: 596px;
+    left: 72px;
+    padding-top: 35px;
+}
+
+#get-started-box .cta {
+    width: 292px;
+    margin: 7px 0 7px 47px;
+    padding: 10px 0 10px 10px;
+    background: #ff0005;
+    border-radius: 6px;
+}
+
+#get-started-box .cta a:link,
+#get-started-box .cta a:visited,
+#get-started-box .cta a:hover {
+    color: #fff !important;
+    font-weight: bold;
+    font-size: 19px;
+}
+
+#articles-box {
+    background: #fff;
+    width: 1250px;
+    height: 586px;
+    margin: 0 0 58px;
+}
+
+#articles-box:after {
+    content:'';
+    display: block;
+    width: 100%;
+    height: 100%;
+    background: url('https://www.elitefitness.com/wp-content/themes/magazine-pro/images/shadow.png') no-repeat 0 0 transparent;
+    background-size: contain;
+    position: relative;
+    top: -36px;
+}
+
+.join-box {
+    display: inline-block;
+    vertical-align: top;
+    width: 37%;
+    padding-bottom: 0.7em;
+}
+
+.join-box > img {
+    display: block;
+    margin: 0 auto;
+}
+
+.join-box .cta {
+    width: 90%;
+    margin: 0 auto;
+    color: #3d4fb7;
+    font-size: 22px;
+}
+
+.cta-link {
+    background: #272f8f;
+    padding: 12px;
+    width: 96%;
+    margin: 0 auto;
+    border-radius: 6px;
+    text-align: center;
+}
+
+.cta-link a:link,
+.cta-link a:visited,
+.cta-link a:hover {
+    color: #fff;
+    font-size: 17px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.cta-link a:hover {
+    color: #000 !important;
+}
+
+.featured-articles {
+    display: inline-block;
+    width: 60%;
+    margin-left: 7px;
+}
+
+.featured-articles h2 {
+    font-family: 'Droid Sans', Arial, Helvetica, sans-serif;
+    font-size: 31px;
+    font-weight: bold;
+    color:#3d4fb7;
+    margin-top: 10px;
+}
+
+.featured-articles h2 .smaller {
+    font-size: 28px;
+    color: #272f8f;
+}
+
+.featured-articles article {
+    border: 1px solid #272f8f;
+    width: 100%;
+    margin: 8px 0;
+    background: #dbdded;
+}
+
+.featured-articles article:last-of-type {
+    margin-bottom: 21px;
+}
+
+.featured-articles article > div {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.featured-articles article .date {
+    width: 9.55%;
+    padding: 24px 0;
+    margin: 8px;
+    background: #b3bcf0;
+    text-align: center;
+    font-weight: bold;
+    font-size: 19px;
+    color:#3d4fb7;
+
+}
+
+.featured-articles article .date strong {
+    font-size: 35px;
+}
+
+.featured-articles article .excerpt {
+    width: 58%;
+    margin: 8px 8px 8px 0;
+}
+
+.featured-articles article .excerpt h3 {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 7px 0;
+}
+
+.featured-articles article .excerpt p {
+    font-size: 13px;
+    font-weight: 400;
+    letter-spacing: -0.025em
+}
+
+.featured-articles article .excerpt a {
+    text-decoration: underline;
+}
+
+.featured-articles article .article-thumb {
+    margin: 8px 8px 8px 0;
+}
+
+.outer-wide-wrap {
+    width: 100%;
+    clear: both;
+}
+
+.wide-wrap {
+    width: 100%;
+    clear: both;
+    /*background: url('https://www.elitefitness.com/wp-content/themes/magazine-pro/images/forum-posts-bg1.jpg') no-repeat 1240px 0 #121837;*/
+    background: url('https://www.elitefitness.com/wp-content/themes/magazine-pro/images/forum-posts-bg1.jpg') repeat-x 1240px bottom #121837;
+}
+
+.wide-wrap.odd {
+    /*background: url('https://www.elitefitness.com/wp-content/themes/magazine-pro/images/forum-posts-bg2.jpg') repeat-x 1240px -551px #000000;*/
+    background: url('https://www.elitefitness.com/wp-content/themes/magazine-pro/images/forum-posts-bg2.jpg') repeat-x 0px top #000000;
+}
+
+.wide-wrap.last {
+    background: url('https://www.elitefitness.com/wp-content/themes/magazine-pro/images/forum-posts-bg1.jpg') repeat-x 1240px 100px #121837;
+}
+
+.wide-wrap .content-sidebar-wrap {
+    color: #fff;
+    padding-top: 38px;
+}
+
+
+.wide-wrap .forum-posts .headline {
+    width: 230px;
+    background: #131e8b;
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.wide-wrap .forum-posts .forum-category {
+    font-size: 48px;
+    margin: 0 0 10px;
+}
+
+.forum-post {
+    display: inline-block;
+    width: 31%;
+    margin: 10px 3% 40px 0;
+}
+
+.forum-post.last {
+    margin-right: 0;
+}
+
+.forum-post header > div {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.forum-post header .date {
+    width: 127px;
+    padding: 0.3em 0;
+    margin-top: 18px;
+    background: #3d4fb7;
+    border-radius: 12px;
+    font-size: 16px;
+    text-align: center;
+}
+
+.forum-post header .author-avatar {
+    margin-left: 10px;
+    margin-right: 5px;
+}
+
+.forum-post header .author-avatar img {
+    border-radius: 50%;
+}
+
+.forum-post header .author-meta {
+    width: 140px;
+}
+
+.forum-post header .author-meta > div > div {
+    display: inline-block;
+    vertical-align: top;
+    font-size: 12px;
+    font-weight: 300;
+}
+
+.forum-post header .author-meta .meta-name {
+    color: #98a5f1;
+    width: 77px;
+}
+
+.forum-post .excerpt{
+    color: #818494;
+    font-size: 14px;
+}
+
+.forum-post .excerpt h3 {
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.forum-post .read-more a:link,
+.forum-post .read-more a:visited,
+.forum-post .read-more a:hover{
+    font-size: 12px;
+    color: #98a5f1;
+}
+
+.forum-post .read-more:before {
+    content: url('https://www.elitefitness.com/wp-content/themes/magazine-pro/images/arrow.png');
+    display: inline-block;
+    width: 40px;
+    position: relative;
+    top: 10px;
+}
+
+
+@media only screen and (max-width: 1200px) {
+    .top-container, .site-header .wrap,
+    .site-header .inner, .site-inner .content-sidebar-wrap,
+    #articles-box {
+        width: 960px;
+    }
+
+    .main-top-row-two .d-blue-left-section {
+        width: 55%;
+    }
+
+    .main-top-row-two .l-blue-right-section {
+        width: 44%
+    }
+
+    .main-top-row-two .l-blue-right-section .l-blue-cus-menu {
+        padding-left: 1em;
+    }
+
+    .site-header .search-form {
+        width: 90%;
+    }
+
+    #top-section {
+        height: 370px;
+    }
+
+    #top-section:after {
+        width: 960px;
+        top: -16px;
+    }
+
+    #articles-box {
+        height: 560px;
+    }
+
+    #articles-box:after {
+        top: -16px;
+    }
+
+    .join-box {
+        width: 35%;
+    }
+
+    .join-box .cta {
+        padding: 8px 0;
+    }
+
+    #get-started-box {
+        background: url('https://www.elitefitness.com/wp-content/themes/magazine-pro/images/slider_banner_bg.png') no-repeat right 0 transparent;
+        width: 500px;
+        left: 20px;
+    }
+
+    .featured-articles {
+        width: 63%;
+    }
+
+    .featured-articles article .date {
+        width: 7%;
+        padding: 1em 0;
+    }
+
+    .featured-articles article .excerpt {
+        width: 64%;
+    }
+
+    .featured-articles article .excerpt h3 {
+        font-size: 18px;
+    }
+
+    .featured-articles article .article-thumb {
+        width: 22%;
+    }
+}
+
+
+@media only screen and (max-width: 800px) {
+    .featured-articles article .date {
+        display: inline-block;
+        width: 20%;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+
+
+}
+
+@media only screen and (max-device-width: 768px) {
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .main-top-row-two .l-blue-right-section, .site-header .inner,
+    .site-header .wrap, .top-container,
+    .site-inner .content-sidebar-wrap,
+    #top-section .headline, #articles-box, .join-box,
+    .featured-articles article .article-thumb,
+    .site-header .header-widget-area{
+        width: 100%;
+    }
+
+    .site-header .inner {
+        background-size: auto;
+    }
+
+    #menu-main.genesis-nav-menu {
+        font-size: 14px;
+        display: none;
+    }
+
+    .site-header .search-form {
+        width: 97%;
+        margin: 0 auto 28px;
+        box-shadow: 0px 4px 5px 2px rgba(0,0,0,0.2);
+    }
+
+    header .tagline {
+        margin: 0;
+    }
+
+    #top-section {
+        width: 100%;
+        margin: 0 auto 2em;
+        height: auto;
+        padding-left: 1em;
+        padding-right: 1em;
+        position: relative;
+    }
+
+    #top-section h1 {
+        font-size: 22px;
+        margin: 10px 0 20px;
+    }
+
+    #top-section .half {
+        width: 100%;
+    }
+
+    #get-started-box {
+        position: static;
+        width: 100%;
+        height:  auto;
+        background: none;
+    }
+
+    #get-started-box .cta {
+        width: 94%;
+        margin: 0 auto 1em;
+        font-size: 14px;
+    }
+
+    #top-section:after {
+        display: none;
+    }
+
+    #articles-box {
+        height: auto;
+        padding: 0.5em 0.5em 1em;
+        margin-bottom: 1em;
+    }
+
+    #articles-box:after {
+        display: none;
+    }
+
+    .featured-articles,
+    .featured-articles article .excerpt {
+        width: 100%;
+        margin: 0;
+    }
+
+    .featured-articles article .date {
+        display: block;
+        margin: 0.5em auto;
+        width: 94%;
+        /*font-size: 35px;*/
+    }
+
+    .featured-articles article .date strong {
+        margin-right: 0.3em;
+    }
+
+    .featured-articles article .date br {
+        display: none;
+    }
+
+    .featured-articles article .excerpt {
+        padding: 0.5em;
+    }
+
+    .featured-articles article .article-thumb img {
+        display: block;
+        margin: 0 auto;
+        width: 90%;
+    }
+
+    .wide-wrap .content-sidebar-wrap {
+        padding-top: 1em;
+    }
+
+    .wide-wrap .forum-posts .headline {
+        width: 90%;
+        padding: 1em 0.6em;
+        margin: 0 auto;
+    }
+
+    .wide-wrap .forum-posts .forum-category {
+        font-size: 1.8em;
+        text-align: center;
+        text-shadow: 1px 0 1px rgba(0,0,0,0.7);
+    }
+
+    .forum-post {
+        width: 100%;
+        padding: 0.6em;
+    }
+
+    .forum-post header .date, .forum-post header .author-avatar {
+        width: 46%;
+    }
+
+    .forum-post header .author-meta {
+        display: block;
+        width: 80%;
+        margin: 0 auto;
+    }
+
+    .forum-post header .author-meta .meta-name {
+        width: 50%;
+    }
+
+    .wide-wrap, .wide-wrap.odd, .wide-wrap.last {
+        background: none;
+    }
+
+    .forum-posts section {
+        background: #121837;
+        margin-bottom: 0.5em;
+    }
+
+    .forum-posts section:nth-of-type(even) {
+        background: #000;
+    }
+
+}
