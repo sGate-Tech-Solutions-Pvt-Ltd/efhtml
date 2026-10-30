@@ -1,0 +1,9 @@
+.mtphr-dnt-posts-date { display: block; }
+
+.mtphr-dnt-posts-excerpt { margin: 0; }
+
+.mtphr-dnt-posts-thumb img { width: auto; height: auto; }
+
+.mtphr-dnt-posts-taxonomies > span { display: inline-block; margin-right: 10px; margin-bottom: 10px; }
+
+.mtphr-dnt-posts-taxonomies > span:last-child { margin-right: 0; }

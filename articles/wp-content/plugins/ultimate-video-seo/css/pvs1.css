@@ -1,0 +1,47 @@
+.toggle {
+    position: relative; width: 90px;
+    -webkit-user-select:none; -moz-user-select:none; -ms-user-select: none;
+}
+.toggle-checkbox {
+    display: none;
+}
+.toggle-label {
+    display: block; overflow: hidden; cursor: pointer;
+    border: 3px solid #999999; border-radius: 10px;
+}
+.toggle-internal {
+    width: 200%; margin-left: -100%;
+    -moz-transition: margin 0.3s ease-in 0s; -webkit-transition: margin 0.3s ease-in 0s;
+    -o-transition: margin 0.3s ease-in 0s; transition: margin 0.3s ease-in 0s;
+}
+.toggle-internal:before
+ {
+    float: left; width: 50%; height: 20px; padding: 0; line-height: 20px;
+    font-size: 14px; color: white;  font-weight: bold;
+    -moz-box-sizing: border-box; -webkit-box-sizing: border-box; 
+}
+ .toggle-internal:after {
+    float: left; width: 50%; height: 20px; padding: 0; line-height: 20px;
+    font-size: 14px; color: white;  font-weight: bold;
+    -moz-box-sizing: border-box; -webkit-box-sizing: border-box; 
+}
+.toggle-internal:before {
+    content: "Yes";
+    padding-left: 30px;
+    background-color: #1B8DB3; color: #FFFFFF;
+}
+.toggle-internal:after {
+    content: "No";
+    padding-right: 30px;
+    background-color: #EEEEEE; color: #999999;
+    text-align: right;
+}
+.toggle-checkbox:checked + .toggle-label .toggle-internal {
+    margin-left: 0;
+}
+.toggle-checkbox:checked + .toggle-label  {
+    right: 0px; 
+}
+.toggle input[type=checkbox] {
+    display:none;
+}

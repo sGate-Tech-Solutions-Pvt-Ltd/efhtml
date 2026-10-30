@@ -1,0 +1,43 @@
+.scroll-to-top,
+.scroll-to-bottom{
+	padding:2px;
+	position:fixed;
+	width:32px;
+	height:32px;
+	opacity:0.8;
+	cursor: pointer;
+	z-index: 9999;
+}
+.scroll-to-top{
+	bottom:20px;
+	right:66px;
+}
+.scroll-to-bottom{
+	bottom:20px;
+	right:30px;
+}
+
+.stab-left .scroll-to-top {
+	right: inherit;
+	left: 30px;
+} 
+.stab-left .scroll-to-bottom{
+	right: inherit;
+	left:66px;
+}
+.stab-center .scroll-to-top {
+	right: 50%;
+	margin-right: 5px;
+} 
+.stab-center .scroll-to-bottom{
+	right: 50%;
+	margin-right: -30px
+}
+ 
+@media screen and (max-width:500px){	
+		.scroll-btn-container {
+			display: none;
+		}
+
+}
+

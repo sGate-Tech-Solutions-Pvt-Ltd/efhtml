@@ -1,0 +1,16 @@
+
+
+@font-face {
+    font-family: 'ntf-granditalic';
+    src: url('/articles/wp-content/plugins/admin-custom-login/css/fonts/ntf-grand-italic-webfont.woff2') format('woff2'),
+         url('/articles/wp-content/plugins/admin-custom-login/css/fonts/ntf-grand-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ntf-grandregular';
+    src: url('/articles/wp-content/plugins/admin-custom-login/css/fonts/ntf-grand-regular-webfont.woff2') format('woff2'),
+         url('/articles/wp-content/plugins/admin-custom-login/css/fonts/ntf-grand-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
