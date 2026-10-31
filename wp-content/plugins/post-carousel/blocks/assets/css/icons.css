@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'social-share';
-  src: url('https://www.elitefitness.com/wp-content/plugins/post-carousel/blocks/assets/font/social-share.eot?4796534');
-  src: url('https://www.elitefitness.com/wp-content/plugins/post-carousel/blocks/assets/font/social-share.eot?4796534#iefix') format('embedded-opentype'),
-       url('https://www.elitefitness.com/wp-content/plugins/post-carousel/blocks/assets/font/social-share.woff2?4796534') format('woff2'),
-       url('https://www.elitefitness.com/wp-content/plugins/post-carousel/blocks/assets/font/social-share.woff?4796534') format('woff'),
-       url('https://www.elitefitness.com/wp-content/plugins/post-carousel/blocks/assets/font/social-share.ttf?4796534') format('truetype'),
-       url('https://www.elitefitness.com/wp-content/plugins/post-carousel/blocks/assets/font/social-share.svg?4796534#social-share') format('svg');
+  src: url('/wp-content/plugins/post-carousel/blocks/assets/font/social-share.eot?4796534');
+  src: url('/wp-content/plugins/post-carousel/blocks/assets/font/social-share.eot?4796534#iefix') format('embedded-opentype'),
+       url('/wp-content/plugins/post-carousel/blocks/assets/font/social-share.woff2?4796534') format('woff2'),
+       url('/wp-content/plugins/post-carousel/blocks/assets/font/social-share.woff?4796534') format('woff'),
+       url('/wp-content/plugins/post-carousel/blocks/assets/font/social-share.ttf?4796534') format('truetype'),
+       url('/wp-content/plugins/post-carousel/blocks/assets/font/social-share.svg?4796534#social-share') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'social-share';
-    src: url('https://www.elitefitness.com/wp-content/plugins/post-carousel/blocks/assets/font/social-share.svg?4796534#social-share') format('svg');
+    src: url('/wp-content/plugins/post-carousel/blocks/assets/font/social-share.svg?4796534#social-share') format('svg');
   }
 }
 */

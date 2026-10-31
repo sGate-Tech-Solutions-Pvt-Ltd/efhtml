@@ -263,8 +263,8 @@ th {
 @font-face {
   font-family: 'Glyphicons Halflings';
 
-  src: url('https://www.elitefitness.com/wp-content/themes/magazine-pro/fonts/glyphicons-halflings-regular.eot');
-  src: url('https://www.elitefitness.com/wp-content/themes/magazine-pro/fonts/glyphicons-halflings-regular.eot#iefix') format('embedded-opentype'), url('https://www.elitefitness.com/wp-content/themes/magazine-pro/fonts/glyphicons-halflings-regular.woff2') format('woff2'), url('https://www.elitefitness.com/wp-content/themes/magazine-pro/fonts/glyphicons-halflings-regular.woff') format('woff'), url('https://www.elitefitness.com/wp-content/themes/magazine-pro/fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('https://www.elitefitness.com/wp-content/themes/magazine-pro/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
+  src: url('/wp-content/themes/magazine-pro/fonts/glyphicons-halflings-regular.eot');
+  src: url('/wp-content/themes/magazine-pro/fonts/glyphicons-halflings-regular.eot#iefix') format('embedded-opentype'), url('/wp-content/themes/magazine-pro/fonts/glyphicons-halflings-regular.woff2') format('woff2'), url('/wp-content/themes/magazine-pro/fonts/glyphicons-halflings-regular.woff') format('woff'), url('/wp-content/themes/magazine-pro/fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('/wp-content/themes/magazine-pro/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
 }
 .glyphicon {
   position: relative;

@@ -653,7 +653,7 @@ html[dir="rtl"] .sp-pcp-post {
 /* Preloader */
 .pcp-preloader {
 	background-color: #fff;
-	background-image: url(https://www.elitefitness.com/wp-content/plugins/post-carousel/public/assets/img/preloader.svg);
+	background-image: url(/wp-content/plugins/post-carousel/public/assets/img/preloader.svg);
 	background-repeat: no-repeat;
 	background-position: center center;
 	position: absolute;

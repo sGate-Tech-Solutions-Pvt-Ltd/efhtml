@@ -9,12 +9,12 @@ Loaded on all admin pages */
 	font-weight: 400;
 	font-style: normal;
 
-	src: url(https://www.elitefitness.com/wp-content/themes/genesis/lib/css/fonts/genesis-icon.eot);
+	src: url(/wp-content/themes/genesis/lib/css/fonts/genesis-icon.eot);
 	src:
-		url(https://www.elitefitness.com/wp-content/themes/genesis/lib/css/fonts/genesis-icon.eot#iefix) format("embedded-opentype"),
-		url(https://www.elitefitness.com/wp-content/themes/genesis/lib/css/fonts/genesis-icon.woff) format("woff"),
-		url(https://www.elitefitness.com/wp-content/themes/genesis/lib/css/fonts/genesis-icon.ttf) format("truetype"),
-		url(https://www.elitefitness.com/wp-content/themes/genesis/lib/css/fonts/genesis-icon.svg#genesis-icon) format("svg");
+		url(/wp-content/themes/genesis/lib/css/fonts/genesis-icon.eot#iefix) format("embedded-opentype"),
+		url(/wp-content/themes/genesis/lib/css/fonts/genesis-icon.woff) format("woff"),
+		url(/wp-content/themes/genesis/lib/css/fonts/genesis-icon.ttf) format("truetype"),
+		url(/wp-content/themes/genesis/lib/css/fonts/genesis-icon.svg#genesis-icon) format("svg");
 }
 
 

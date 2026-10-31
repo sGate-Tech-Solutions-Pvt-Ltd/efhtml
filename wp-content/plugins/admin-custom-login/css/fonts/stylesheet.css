@@ -2,15 +2,15 @@
 
 @font-face {
     font-family: 'ntf-granditalic';
-    src: url('https://www.elitefitness.com/wp-content/plugins/admin-custom-login/css/fonts/ntf-grand-italic-webfont.woff2') format('woff2'),
-         url('https://www.elitefitness.com/wp-content/plugins/admin-custom-login/css/fonts/ntf-grand-italic-webfont.woff') format('woff');
+    src: url('/wp-content/plugins/admin-custom-login/css/fonts/ntf-grand-italic-webfont.woff2') format('woff2'),
+         url('/wp-content/plugins/admin-custom-login/css/fonts/ntf-grand-italic-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'ntf-grandregular';
-    src: url('https://www.elitefitness.com/wp-content/plugins/admin-custom-login/css/fonts/ntf-grand-regular-webfont.woff2') format('woff2'),
-         url('https://www.elitefitness.com/wp-content/plugins/admin-custom-login/css/fonts/ntf-grand-regular-webfont.woff') format('woff');
+    src: url('/wp-content/plugins/admin-custom-login/css/fonts/ntf-grand-regular-webfont.woff2') format('woff2'),
+         url('/wp-content/plugins/admin-custom-login/css/fonts/ntf-grand-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }

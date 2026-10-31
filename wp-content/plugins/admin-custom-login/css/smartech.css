@@ -1796,7 +1796,7 @@ margin-top: 10px;
 border-radius: 4px;
 font-family: sans-serif;
 font-size: 12px;
-background: #fafafa url(https://www.elitefitness.com/wp-content/plugins/admin-custom-login/images/select.png) no-repeat right center;
+background: #fafafa url(/wp-content/plugins/admin-custom-login/images/select.png) no-repeat right center;
 border-color: #ccc #eee #eee #ccc;
 border-style: solid;
 border-width: 1px;

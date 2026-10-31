@@ -13,7 +13,7 @@ table.tablesorter tfoot tr th {
   padding: 2px;
 }
 table.tablesorter thead tr .header {
-  background-image: url(https://www.elitefitness.com/wp-content/plugins/autoptimize/classes/critcss-inc/css/ao-tablesorter/bg.gif);
+  background-image: url(/wp-content/plugins/autoptimize/classes/critcss-inc/css/ao-tablesorter/bg.gif);
   background-repeat: no-repeat;
   background-position: center right;
   cursor: pointer;
@@ -29,10 +29,10 @@ table.tablesorter tbody tr:nth-child(even) td {
   background-color: #f9f9f9;
 }
 table.tablesorter thead tr .headerSortUp {
-  background-image: url(https://www.elitefitness.com/wp-content/plugins/autoptimize/classes/critcss-inc/css/ao-tablesorter/asc.gif);
+  background-image: url(/wp-content/plugins/autoptimize/classes/critcss-inc/css/ao-tablesorter/asc.gif);
 }
 table.tablesorter thead tr .headerSortDown {
-  background-image: url(https://www.elitefitness.com/wp-content/plugins/autoptimize/classes/critcss-inc/css/ao-tablesorter/desc.gif);
+  background-image: url(/wp-content/plugins/autoptimize/classes/critcss-inc/css/ao-tablesorter/desc.gif);
 }
 table.tablesorter thead tr .headerSortDown,
 table.tablesorter thead tr .headerSortUp {

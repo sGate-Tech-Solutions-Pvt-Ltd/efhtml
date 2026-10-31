@@ -3,7 +3,7 @@
 }
 
 .minicolors-sprite {
-  background-image: url(https://www.elitefitness.com/wp-content/plugins/ditty-news-ticker/includes/libs/jquery-minicolors/jquery.minicolors.png);
+  background-image: url(/wp-content/plugins/ditty-news-ticker/includes/libs/jquery-minicolors/jquery.minicolors.png);
 }
 
 .minicolors-swatch {

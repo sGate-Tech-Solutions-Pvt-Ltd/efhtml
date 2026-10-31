@@ -684,7 +684,7 @@ table.package-tbl tfoot td {
 
 #db-reset-content-wrapper .two-cols-valig .arrow-list li {
     padding: 0 0 0 24px;
-    background-image: url("https://www.elitefitness.com/wp-content/plugins/duplicator/assets/css/images/arrow-right.svg");
+    background-image: url("/wp-content/plugins/duplicator/assets/css/images/arrow-right.svg");
     background-position: left 3px;
     background-repeat: no-repeat;
     background-size: 14px;

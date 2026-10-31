@@ -37,7 +37,7 @@
 	color:#ccc;
 }
 .social-media-widget-block .gfspinner{
-	background:url('https://www.elitefitness.com/wp-content/plugins/social-media-widget/images/spinner.gif') no-repeat 0 0 scroll transparent;
+	background:url('/wp-content/plugins/social-media-widget/images/spinner.gif') no-repeat 0 0 scroll transparent;
 	height:60px;
 	width:60px;
 	position:absolute;

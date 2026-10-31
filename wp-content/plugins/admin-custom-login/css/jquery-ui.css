@@ -607,7 +607,7 @@ width: 5em;
 	height: 100%;
 }
 .ui-progressbar .ui-progressbar-overlay {
-	background: url("https://www.elitefitness.com/wp-content/plugins/admin-custom-login/css/images/animated-overlay.gif");
+	background: url("/wp-content/plugins/admin-custom-login/css/images/animated-overlay.gif");
 	height: 100%;
 	filter: alpha(opacity=25);
 	opacity: 0.25;
@@ -876,27 +876,27 @@ body .ui-tooltip {
 }
 .ui-icon,
 .ui-widget-content .ui-icon {
-	background-image: url(https://www.elitefitness.com/wp-content/plugins/admin-custom-login/css/images/ui-icons_469bdd_256x240.png);
+	background-image: url(/wp-content/plugins/admin-custom-login/css/images/ui-icons_469bdd_256x240.png);
 }
 .ui-widget-header .ui-icon {
-	background-image: url(https://www.elitefitness.com/wp-content/plugins/admin-custom-login/css/images/ui-icons_d8e7f3_256x240.png);
+	background-image: url(/wp-content/plugins/admin-custom-login/css/images/ui-icons_d8e7f3_256x240.png);
 }
 .ui-state-default .ui-icon {
-	background-image: url(https://www.elitefitness.com/wp-content/plugins/admin-custom-login/css/images/ui-icons_6da8d5_256x240.png);
+	background-image: url(/wp-content/plugins/admin-custom-login/css/images/ui-icons_6da8d5_256x240.png);
 }
 .ui-state-hover .ui-icon,
 .ui-state-focus .ui-icon {
-	background-image: url(https://www.elitefitness.com/wp-content/plugins/admin-custom-login/css/images/ui-icons_217bc0_256x240.png);
+	background-image: url(/wp-content/plugins/admin-custom-login/css/images/ui-icons_217bc0_256x240.png);
 }
 .ui-state-active .ui-icon {
-	background-image: url(https://www.elitefitness.com/wp-content/plugins/admin-custom-login/css/images/ui-icons_f9bd01_256x240.png);
+	background-image: url(/wp-content/plugins/admin-custom-login/css/images/ui-icons_f9bd01_256x240.png);
 }
 .ui-state-highlight .ui-icon {
-	background-image: url(https://www.elitefitness.com/wp-content/plugins/admin-custom-login/css/images/ui-icons_2e83ff_256x240.png);
+	background-image: url(/wp-content/plugins/admin-custom-login/css/images/ui-icons_2e83ff_256x240.png);
 }
 .ui-state-error .ui-icon,
 .ui-state-error-text .ui-icon {
-	background-image: url(https://www.elitefitness.com/wp-content/plugins/admin-custom-login/css/images/ui-icons_cd0a0a_256x240.png);
+	background-image: url(/wp-content/plugins/admin-custom-login/css/images/ui-icons_cd0a0a_256x240.png);
 }
 
 /* positioning */
@@ -1109,14 +1109,14 @@ body .ui-tooltip {
 
 /* Overlays */
 .ui-widget-overlay {
-	background: #aaaaaa url(https://www.elitefitness.com/wp-content/plugins/admin-custom-login/css/images/ui-bg_flat_0_aaaaaa_40x100.png) 50% 50% repeat-x;
+	background: #aaaaaa url(/wp-content/plugins/admin-custom-login/css/images/ui-bg_flat_0_aaaaaa_40x100.png) 50% 50% repeat-x;
 	opacity: .3;
 	filter: Alpha(Opacity=30);
 }
 .ui-widget-shadow {
 	margin: -8px 0 0 -8px;
 	padding: 8px;
-	background: #aaaaaa url(https://www.elitefitness.com/wp-content/plugins/admin-custom-login/css/images/ui-bg_flat_0_aaaaaa_40x100.png) 50% 50% repeat-x;
+	background: #aaaaaa url(/wp-content/plugins/admin-custom-login/css/images/ui-bg_flat_0_aaaaaa_40x100.png) 50% 50% repeat-x;
 	opacity: .3;
 	filter: Alpha(Opacity=30);
 	border-radius: 8px;

@@ -214,7 +214,7 @@ a.alignright,img.alignright,.wp-caption.alignright{margin:0 0 24px 24px;}
 .magazine-home .content .genesis_responsive_slider .slide-excerpt-border{background:#fff;width:100%;}
 .magazine-home .content .genesis_responsive_slider h2,.magazine-home .content .genesis_responsive_slider h2 a{line-height:1.2;margin:0;}
 .magazine-home .content .genesis_responsive_slider p{font-size:14px;margin:10px 0 0;}
-.magazine-home .content .genesis_responsive_slider .flex-direction-nav li a{background:url(https://www.elitefitness.com/wp-content/themes/magazine-pro/images/icon-direction-nav.png) no-repeat -50px 0;background-size:100px 98px;height:49px;outline:none;right:-25px;-webkit-transition:none;-moz-transition:none;-ms-transition:none;-o-transition:none;transition:none;width:50px;}
+.magazine-home .content .genesis_responsive_slider .flex-direction-nav li a{background:url(/wp-content/themes/magazine-pro/images/icon-direction-nav.png) no-repeat -50px 0;background-size:100px 98px;height:49px;outline:none;right:-25px;-webkit-transition:none;-moz-transition:none;-ms-transition:none;-o-transition:none;transition:none;width:50px;}
 .magazine-home .content .genesis_responsive_slider .flex-direction-nav li a:hover{background-position:-50px -49px;}
 .magazine-home .content .genesis_responsive_slider .flex-direction-nav li a.prev{background-position:0 0;bottom:auto;left:auto;right:62px;top:30px;}
 .magazine-home .content #genesis-responsive-slider .flex-direction-nav li a.next{bottom:auto;left:auto;right:10px;top:30px;}
@@ -338,7 +338,7 @@ li.comment{background-color:#f5f5f5;border:2px solid #fff;border-right:none;}
 .magazine-pro-elite-fitness a:hover,.magazine-pro-elite-fitness .entry-content a,.magazine-pro-elite-fitness .entry-title a:hover,.magazine-pro-elite-fitness .genesis-nav-menu a:hover,.magazine-pro-elite-fitness .genesis-nav-menu .current-menu-item > a,.magazine-pro-elite-fitness .genesis-nav-menu .sub-menu .current-menu-item > a:hover,.magazine-pro-elite-fitness .nav-primary a:hover,.magazine-pro-elite-fitness .nav-primary .sub-menu a:hover,.magazine-pro-elite-fitness .nav-primary .genesis-nav-menu .current-menu-item > a{color:#3d4fb7;text-decoration:none;}
 .js.magazine-pro-elite-fitness .content .home-middle a .entry-time,.js.magazine-pro-elite-fitness .content .home-top a .entry-time,.magazine-pro-elite-fitness button:hover,.magazine-pro-elite-fitness input:hover[type="button"],.magazine-pro-elite-fitness input:hover[type="reset"],.magazine-pro-elite-fitness input:hover[type="submit"],.magazine-pro-elite-fitness .archive-pagination li a:hover,.magazine-pro-elite-fitness .archive-pagination li.active a,.magazine-pro-elite-fitness .button:hover,.magazine-pro-elite-fitness .enews-widget input[type="submit"],.magazine-pro-elite-fitness .entry-content .button:hover,.magazine-pro-elite-fitness .home-middle a.more-link:hover,.magazine-pro-elite-fitness .home-top a.more-link:hover,.magazine-pro-elite-fitness .sidebar .tagcloud a:hover{background-color:#3D4FB7;}
 .magazine-pro-elite-fitness .button:hover{color:#fff;}
-.home-bottom ul li, .magazine-pro-elite-fitness .sidebar ul li{background:rgba(0, 0, 0, 0) url("https://www.elitefitness.com/wp-content/themes/magazine-pro/images/i.ico") no-repeat scroll left 3px;border-bottom:medium none;list-style:inside none none;margin:0 0 1rem;padding:0 0.5rem 0 2.5rem;position:relative;font-size:1.6rem;}
+.home-bottom ul li, .magazine-pro-elite-fitness .sidebar ul li{background:rgba(0, 0, 0, 0) url("/wp-content/themes/magazine-pro/images/i.ico") no-repeat scroll left 3px;border-bottom:medium none;list-style:inside none none;margin:0 0 1rem;padding:0 0.5rem 0 2.5rem;position:relative;font-size:1.6rem;}
 .sidebar .widget{background-color:#fff;margin-bottom:40px;padding:0px 40px;}
 .magazine-pro-elite-fitness .nav-primary{background-color:#3D4FB7;color:#fff;left:0;position:fixed;top:0;width:100%;z-index:999;}
 .magazine-pro-elite-fitness .genesis-nav-menu a{padding:15px;}
@@ -349,7 +349,7 @@ li.comment{background-color:#f5f5f5;border:2px solid #fff;border-right:none;}
 .clear{clear:both;}
 .top-container{max-width:1250px;margin:auto;}
 .main-top-row-one{background:rgb(180,9,15);background:-moz-linear-gradient(left, rgba(180,9,15,1) 50%, rgba(0,0,0,1) 50%);background:-webkit-gradient(linear, left top, right top, color-stop(50%,rgba(180,9,15,1)), color-stop(50%,rgba(0,0,0,1)));background:-webkit-linear-gradient(left, rgba(180,9,15,1) 50%,rgba(0,0,0,1) 50%);background:-o-linear-gradient(left, rgba(180,9,15,1) 50%,rgba(0,0,0,1) 50%);background:-ms-linear-gradient(left, rgba(180,9,15,1) 50%,rgba(0,0,0,1) 50%);background:linear-gradient(to right, rgba(180,9,15,1) 50%,rgba(0,0,0,1) 50%);padding:0 15px;}
-.main-top-row-one .left-red-box{width:64%;float:left;background:url(https://www.elitefitness.com/wp-content/themes/magazine-pro/images/red-arrow.png) no-repeat 100% 50%;}
+.main-top-row-one .left-red-box{width:64%;float:left;background:url(/wp-content/themes/magazine-pro/images/red-arrow.png) no-repeat 100% 50%;}
 .main-top-row-one .left-red-box .left-red-box-arrow{color:#fff;font-size:16px;padding:19px 0px 20px;background:#b4090f;margin-right:5%;font-family:'Droid Sans', sans-serif;}
 .main-top-row-one .left-red-box .left-red-box-arrow span.f-rep-text{font-size:21px;font-weight:bold;text-transform:uppercase;}
 .main-top-row-one .left-red-box .left-red-box-arrow span.winstrol-text{font-weight:bold;}
@@ -363,7 +363,7 @@ li.comment{background-color:#f5f5f5;border:2px solid #fff;border-right:none;}
 .main-top-row-one .right-black-box .right-black-box-inner .free-mail-ser-pop-up span{color:inherit;}
 .magazine-pro-elite-fitness .free-mail-ser-pop-up button.close:hover{background:none !important;}
 .main-top-row-two{background:rgb(15,24,131);background:-moz-linear-gradient(left, rgba(15,24,131,1) 50%, rgba(61,78,182,1) 50%);background:-webkit-gradient(linear, left top, right top, color-stop(50%,rgba(15,24,131,1)), color-stop(50%,rgba(61,78,182,1)));background:-webkit-linear-gradient(left, rgba(15,24,131,1) 50%,rgba(61,78,182,1) 50%);background:-o-linear-gradient(left, rgba(15,24,131,1) 50%,rgba(61,78,182,1) 50%);background:-ms-linear-gradient(left, rgba(15,24,131,1) 50%,rgba(61,78,182,1) 50%);background:linear-gradient(to right, rgba(15,24,131,1) 50%,rgba(61,78,182,1) 50%);padding:0 15px;}
-.main-top-row-two .d-blue-left-section{width:66%;float:left;background:url(https://www.elitefitness.com/wp-content/themes/magazine-pro/images/second-row-joint.jpg) no-repeat 100% 100% #0f1883;}
+.main-top-row-two .d-blue-left-section{width:66%;float:left;background:url(/wp-content/themes/magazine-pro/images/second-row-joint.jpg) no-repeat 100% 100% #0f1883;}
 .main-top-row-two .d-blue-left-section .d-blue-left-section-inner{padding-right:30px;}
 .main-top-row-two .d-blue-left-section .d-blue-left-section-inner .boxnews{margin:0 0px 5px 0;min-height:24px;font-weight:bold;color:#fff;font-size:14px;}
 .main-top-row-two .d-blue-left-section .top-redc-content-blue{display:block;font-size:16px;}
@@ -451,13 +451,13 @@ h5{font-family:'Droid Sans', sans-serif !important;font-weight:Bold !important;f
 .blacktop{background-color:#000000;height:64px;}
 .bluefirst{background-color:#101883;background-repeat:no-repeat;height:64px;}
 .blueseond{background-color:#3D4EB6;height:64px;}
-.col-sm-1.tri{background-image:url(https://www.elitefitness.com/wp-content/themes/magazine-pro/images/arraow.png);height:64px;background-repeat:no-repeat;}
+.col-sm-1.tri{background-image:url(/wp-content/themes/magazine-pro/images/arraow.png);height:64px;background-repeat:no-repeat;}
 span.top-redc-content{color:#fff;font-size:18px;float:left;margin-top:19px;}
 span.top-redc-content-blue{color:#fff;float:left;margin-top:10px;font-weight:bold;}
 span.top-redc-content-blue-news{float:left;width:100%;color:#fff;}
 .boxnews{padding:2px;float:left;}
-.container.topfirst{background-image:url(https://www.elitefitness.com/wp-content/themes/magazine-pro/images/header_top_bg.png);position:relative;z-index:31;background-position:-458px 0;height:64px;background-repeat:no-repeat;background-color:#000;background-size:100% 100%;}
-.container.topsecond{background-image:url(https://www.elitefitness.com/wp-content/themes/magazine-pro/images/header_topbg-01.png);position:relative;z-index:31;background-position:31px 0;height:64px;background-repeat:no-repeat;background-size:100% 100%;}
+.container.topfirst{background-image:url(/wp-content/themes/magazine-pro/images/header_top_bg.png);position:relative;z-index:31;background-position:-458px 0;height:64px;background-repeat:no-repeat;background-color:#000;background-size:100% 100%;}
+.container.topsecond{background-image:url(/wp-content/themes/magazine-pro/images/header_topbg-01.png);position:relative;z-index:31;background-position:31px 0;height:64px;background-repeat:no-repeat;background-size:100% 100%;}
 header .widget_search .widget-wrap:after{content:"Enlightening Men about Anabolic Steroids and Bodybuilding for over Two Decades";color:#000;margin-top:0;float:left;font-size:18px;visibility:visible;z-index:999;position:relative;padding-left:18px;font-weight:bold;text-align:left;font-family:'Droid Sans', sans-serif;word-spacing:-0.75px;letter-spacing:-0.75px;}
 .topabso{position:absolute;width:100%;}
 span.top-redc-content-2{margin-top:12px !important;display:inline-block;}
@@ -470,12 +470,12 @@ nav.nav-secondary{background-color:#231F20;color:#fff;}
 .genesis-nav-menu{clear:both;color:#222;font-size:14px;font-weight:400;line-height:1;text-transform:uppercase;width:100%;text-align:center;margin:24px 0 22px;}
 .genesis-nav-menu a{border:none;color:#fff;display:inline-block;padding:0px 8px !important;position:relative;}
 .header-image .site-title a{background-position:left !important}
-.site-header{background-image:url(https://www.elitefitness.com/wp-content/themes/magazine-pro/images/search_bg.png);background-color:#E1E1E1;min-height:127px;}
+.site-header{background-image:url(/wp-content/themes/magazine-pro/images/search_bg.png);background-color:#E1E1E1;min-height:127px;}
 .site-header .search-form{float:left;margin-top:24px;border-radius:50px;border:0px solid #d4d4d4;background-color:rgba(0,0,0,0.1);padding:3.4px;height:51px;width:98%;position:relative;}
 input[type="search"]{border-radius:50px;height:45px;}
 .title-area{float:left;padding-top:30px;width:190px;}
 .site-header .widget-area{float:left;text-align:right;margin-left:3%;}
-input[type="search"]{border-radius:50px;height:45px;background-image:url(https://www.elitefitness.com/wp-content/themes/magazine-pro/images/search_ico.png);background-repeat:no-repeat;padding-left:43px;background-position:10px 10px;}
+input[type="search"]{border-radius:50px;height:45px;background-image:url(/wp-content/themes/magazine-pro/images/search_ico.png);background-repeat:no-repeat;padding-left:43px;background-position:10px 10px;}
 .search-form input[type="search"]{padding-top:0px;padding-bottom:0px;}
 .footer2{background-color:#000;padding:29px 0;}
 .footer2 .widget_text{text-align:center;color:#fff;font-size:15px;}
@@ -485,9 +485,9 @@ input[type="search"]{border-radius:50px;height:45px;background-image:url(https:/
 #menu-footermenu{text-align:center;}
 #menu-footermenu li a{color:#fff;}
 #menu-footermenu li:after{content:"/";font-size:16px;color:#3D4FB7;margin-left:10px;}
-.search-form input[type="submit"]{position:absolute;display:block;right:5px !important;top:4px !important;background-image:url(https://www.elitefitness.com/wp-content/themes/magazine-pro/images/go.png);height:22px !important;width:21px !important;clip:inherit !important;color:#fff;font-size:0;width:121px !important;height:44px !important;border-radius:0 57px 57px 0;z-index:1000;}
+.search-form input[type="submit"]{position:absolute;display:block;right:5px !important;top:4px !important;background-image:url(/wp-content/themes/magazine-pro/images/go.png);height:22px !important;width:21px !important;clip:inherit !important;color:#fff;font-size:0;width:121px !important;height:44px !important;border-radius:0 57px 57px 0;z-index:1000;}
 strong.st2{display:inline-block;margin-left:17px;}
-.background-couple .couplewrap{position:absolute;background-image:url(https://www.elitefitness.com/wp-content/themes/magazine-pro/images/ima03.png);background-repeat:no-repeat;background-position:right 0px;height:185px;right:-37%;z-index:1040;width:311px;top:3px;}
+.background-couple .couplewrap{position:absolute;background-image:url(/wp-content/themes/magazine-pro/images/ima03.png);background-repeat:no-repeat;background-position:right 0px;height:185px;right:-37%;z-index:1040;width:311px;top:3px;}
 .header-widget-area{position:relative;}
 .topsecond .cl4, .topfirst .cl4{padding:0;margin-left:-27px;width:35%;}
 .topsecond .cl4 h3{margin-top:6px;color:#fff;}
@@ -505,7 +505,7 @@ main.content{width:70%;}
 @media screen and (max-width:1000px){.sidebar .widget{padding:0;}
 }
 .single .site-inner{clear:both;padding-top:0;}
-.single .site-container{background-image:url(https://www.elitefitness.com/wp-content/themes/magazine-pro/images/con-back-image.png);background-color:#b9b9b9;background-repeat:repeat-y;background-position:50% 0;}
+.single .site-container{background-image:url(/wp-content/themes/magazine-pro/images/con-back-image.png);background-color:#b9b9b9;background-repeat:repeat-y;background-position:50% 0;}
 @media screen and (min-width:900px){.single .site-container{background-color:#b9b9b9;}
 }
 @media screen and (min-width:1024px) and (max-width:1199px){.background-couple .couplewrap{right:-48%;}
@@ -541,7 +541,7 @@ span.top-redc-content{margin-top:9px;}
 }
 @media screen and (min-width:1025px) and (max-width:1070px){.top-redc-content-blue-news .col-sm-9{width:61%;}
 }
-.chat_w{padding-right:0;background:url(https://www.elitefitness.com/wp-content/themes/magazine-pro/images/247.png);width:100%;height:39px;}
+.chat_w{padding-right:0;background:url(/wp-content/themes/magazine-pro/images/247.png);width:100%;height:39px;}
 .chat_w a{font-size:0;width:100%;height:37px;float:left;top:0 !important;position:absolute;left:0;}
 .home.blog .home-middle header.entry-header{}
 .home.blog .home-middle .featured-content .entry-title a{border:none;font-size:21px;}
@@ -637,7 +637,7 @@ i.fa:hover{color:#3D4FB7;}
 time.entry-time{display:none;}
 p.entry-meta{text-transform:capitalize;}
 .single.content-sidebar .content{width:100%;}
-.genesis-nav-menu .menu-item{display:inline-block;text-align:left;background-image:url(https://www.elitefitness.com/wp-content/themes/magazine-pro/images/list_icon_1.png);padding-left:10px;background-repeat:no-repeat;background-size:12px;padding-bottom:1px;}
+.genesis-nav-menu .menu-item{display:inline-block;text-align:left;background-image:url(/wp-content/themes/magazine-pro/images/list_icon_1.png);padding-left:10px;background-repeat:no-repeat;background-size:12px;padding-bottom:1px;}
 .genesis-nav-menu .menu-item:hover{background-position:0 -32px;}
 .magazine-pro-elite-fitness li:hover a{color:#3D4FB7 !important;text-decoration:none;}
 .genesis-nav-menu .menu-item:first-child{background-position:0 -16px;}

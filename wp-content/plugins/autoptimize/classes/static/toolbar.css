@@ -4,7 +4,7 @@
 	display: none;
 	position: fixed;
 	background-color: rgba(102, 102, 102, 0.8);
-	background-image: url('https://www.elitefitness.com/wp-content/plugins/autoptimize/classes/static/loading.gif');
+	background-image: url('/wp-content/plugins/autoptimize/classes/static/loading.gif');
 	background-position: center;
 	background-repeat: no-repeat;
 	top: 0;

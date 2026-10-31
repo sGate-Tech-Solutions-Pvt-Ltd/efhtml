@@ -44,7 +44,7 @@
 
 #new-relic-widget h5 .handlediv {
     display: block;
-    background: url(https://www.elitefitness.com/wp-content/plugins/w3-total-cache/pub/img/open.png) 0 2px no-repeat;
+    background: url(/wp-content/plugins/w3-total-cache/pub/img/open.png) 0 2px no-repeat;
     width: 14px;
     height: 14px;
     position: relative;
@@ -52,7 +52,7 @@
 
 #new-relic-widget h5 .handlediv.close {
     display: block;
-    background: url(https://www.elitefitness.com/wp-content/plugins/w3-total-cache/pub/img/close.png) 0 6px no-repeat;
+    background: url(/wp-content/plugins/w3-total-cache/pub/img/close.png) 0 6px no-repeat;
     width: 14px;
     height: 14px;
     position: relative;

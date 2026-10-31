@@ -129,15 +129,15 @@ body.login div#login h1 a,#login_error{
 /** NTF Grand Regular**/
 @font-face {
     font-family: 'ntf-granditalic';
-    src: url('https://www.elitefitness.com/wp-content/plugins/admin-custom-login/css/fonts/ntf-grand-italic-webfont.woff2') format('woff2'),
-         url('https://www.elitefitness.com/wp-content/plugins/admin-custom-login/css/fonts/ntf-grand-italic-webfont.woff') format('woff');
+    src: url('/wp-content/plugins/admin-custom-login/css/fonts/ntf-grand-italic-webfont.woff2') format('woff2'),
+         url('/wp-content/plugins/admin-custom-login/css/fonts/ntf-grand-italic-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'ntf-grandregular';
-    src: url('https://www.elitefitness.com/wp-content/plugins/admin-custom-login/css/fonts/ntf-grand-regular-webfont.woff2') format('woff2'),
-         url('https://www.elitefitness.com/wp-content/plugins/admin-custom-login/css/fonts/ntf-grand-regular-webfont.woff') format('woff');
+    src: url('/wp-content/plugins/admin-custom-login/css/fonts/ntf-grand-regular-webfont.woff2') format('woff2'),
+         url('/wp-content/plugins/admin-custom-login/css/fonts/ntf-grand-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
@@ -146,8 +146,8 @@ body.login div#login h1 a,#login_error{
 
 @font-face {
     font-family: 'jameel_noori_nastaleekasheeda';
-    src: url('https://www.elitefitness.com/wp-content/plugins/admin-custom-login/css/rtl-font/jameel_noori_nastaleeq_kasheeda-webfont.woff2') format('woff2'),
-         url('https://www.elitefitness.com/wp-content/plugins/admin-custom-login/css/rtl-font/jameel_noori_nastaleeq_kasheeda-webfont.woff') format('woff');
+    src: url('/wp-content/plugins/admin-custom-login/css/rtl-font/jameel_noori_nastaleeq_kasheeda-webfont.woff2') format('woff2'),
+         url('/wp-content/plugins/admin-custom-login/css/rtl-font/jameel_noori_nastaleeq_kasheeda-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -155,8 +155,8 @@ body.login div#login h1 a,#login_error{
 
 @font-face {
     font-family: 'jameel_noori_nastaleeqregular';
-    src: url('https://www.elitefitness.com/wp-content/plugins/admin-custom-login/css/rtl-font/jameel_noori_nastaleeq-webfont.woff2') format('woff2'),
-         url('https://www.elitefitness.com/wp-content/plugins/admin-custom-login/css/rtl-font/jameel_noori_nastaleeq-webfont.woff') format('woff');
+    src: url('/wp-content/plugins/admin-custom-login/css/rtl-font/jameel_noori_nastaleeq-webfont.woff2') format('woff2'),
+         url('/wp-content/plugins/admin-custom-login/css/rtl-font/jameel_noori_nastaleeq-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 

@@ -121,7 +121,7 @@
 
 
 .social-media-widget-appsumo-capture-container {
-	background-image: url('https://www.elitefitness.com/wp-content/plugins/social-media-widget/images/triangle-pattern.svg');
+	background-image: url('/wp-content/plugins/social-media-widget/images/triangle-pattern.svg');
 	background-repeat:no-repeat;
 	min-height:180px;
 	max-width:550px;
